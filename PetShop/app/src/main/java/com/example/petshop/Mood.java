@@ -21,5 +21,5 @@ public abstract class Mood {
         this.date = date;
     }
 
-    public abstract String mood();
+    public abstract String moodDescription();
 }

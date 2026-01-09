@@ -11,7 +11,7 @@ public class Happy extends Mood {
         super(date);
     }
 
-    public String mood() {
+    public String moodDescription() {
         return "I am Happy! :)";
     }
 }
